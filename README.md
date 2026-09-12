@@ -22,7 +22,7 @@ The analysis focuses on understanding:
 - Home ownership characteristics
 - Credit-related trends
 
-- ## 📊 Dataset
+## 📊 Dataset
 
 The dataset contains information related to bank loans, borrowers, loan characteristics, payment-related attributes and credit information.
 
@@ -40,7 +40,7 @@ Key fields used in the analysis include:
 - Credit-related dates
 - Payment-related information
 
-- ## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -67,7 +67,7 @@ The analysis was designed to answer the following questions:
 
 7. What trends and patterns can be identified from the overall loan portfolio?
 
-8. ## 🧹 Data Preparation
+## 🧹 Data Preparation
 
 The dataset was reviewed and prepared before analysis and visualization.
 
@@ -80,7 +80,7 @@ Key preparation activities included:
 - Reviewing missing and inconsistent values
 - Preparing the data for SQL analysis and dashboard visualization
 
-- ## 📈 Analysis Performed
+## 📈 Analysis Performed
 
 ### 1. Loan Amount by Year
 
