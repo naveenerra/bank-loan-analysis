@@ -49,6 +49,10 @@ Key fields used in the analysis include:
 | Tableau | Interactive data visualization |
 | Power BI | Dashboard development |
 
+## 📊 Dashboard Preview
+
+![Bank Loan Analysis Dashboard](screenshots/bank-loan-dashboard.png)
+
 ## 🔍 Business Questions
 
 The analysis was designed to answer the following questions:
