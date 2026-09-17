@@ -110,3 +110,12 @@ Analyzed loan and borrower characteristics across different home ownership categ
 
 Used `last_credit_pull_d` to examine credit-related trends and their relationship with loan records.
 
+
+## 💡 Key Insights
+
+- Loan activity showed noticeable variation across different years.
+- Loan grades and sub-grades showed differences in revolving balance patterns.
+- Verification status revealed variations in payment-related measures.
+- Loan status distribution varied across different states.
+- Home ownership categories showed differences in borrower and loan characteristics.
+- Credit-related dates helped identify patterns in the loan portfolio.
