@@ -51,7 +51,7 @@ Key fields used in the analysis include:
 
 ## 📊 Dashboard Preview
 
-![Bank Loan Analysis Dashboard](screenshots/bank-loan-dashboard.png.png)
+![Bank Loan Analysis Dashboard](screenshots/bank-loan-dashboard.png)
 
 ## 🔍 Business Questions
 
